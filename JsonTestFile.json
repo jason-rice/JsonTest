@@ -1,0 +1,42 @@
+﻿[
+    {
+        "GivingPageId": 11,
+        "Enabled": true,
+        "PageName": "Test 1",
+        "Skin": "Default",
+        "PageType": "1",
+        "DefaultFund": "Budget/Local Operation"
+    },
+    {
+        "GivingPageId": 12,
+        "Enabled": false,
+        "PageName": "Test 2",
+        "Skin": "ES",
+        "PageType": "1",
+        "DefaultFund": "Budget/Local Operation"
+    },
+    {
+        "GivingPageId": 13,
+        "Enabled": true,
+        "PageName": "Test 3",
+        "Skin": "Missions",
+        "PageType": "1",
+        "DefaultFund": "Budget/Local Operation"
+    },
+    {
+        "GivingPageId": 14,
+        "Enabled": true,
+        "PageName": "Test 4",
+        "Skin": "Rise",
+        "PageType": "1",
+        "DefaultFund": "Budget/Local Operation"
+    },
+    {
+        "GivingPageId": 15,
+        "Enabled": false,
+        "PageName": "Test 5",
+        "Skin": null,
+        "PageType": "1",
+        "DefaultFund": "Budget/Local Operation"
+    }
+]
